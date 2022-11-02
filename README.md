@@ -5,8 +5,6 @@
   <b>Martha</b>
 </h1>
 
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sajalkmr/JonasDarkBot)   
-
 
 
 ## Features
@@ -90,6 +88,7 @@ python3 bot.py
 • /batch - to create link for multiple posts
 • /link - to create link for one post
 
+```
 
 ## Many Of You May Not Be Knowing That You Can Customize Your Bot A Lot.
 
