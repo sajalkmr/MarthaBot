@@ -185,7 +185,7 @@ An Example Template:
 Requested by : {message.from_user.mention}
 
 Add a heroku var named IMDB_TEMPLATE with value as your customized template
-```
+
 
 ## Credits 
 * [![EvaMaria](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://github.com/EvamariaTG/EvaMaria)
